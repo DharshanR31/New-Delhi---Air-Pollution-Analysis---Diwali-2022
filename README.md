@@ -14,4 +14,4 @@ I recently completed an extensive evaluation of the air pollution data recorded 
 ## 📈 Significance:
 Understanding the dynamics of air quality holds pivotal importance for public health, raising environmental consciousness, and shaping policy decisions. By untangling the complexities of pollution trends during festive seasons, we pave the way for sustainable practices and policies, ensuring a cleaner and healthier future.
 ## 🙏 Appreciation:
-h A heartfelt thank you to everyone who contributed to this project, and to the collaborative and knowledge-sharing spirit within the data science community. Let's persist in using data as a catalyst for positive transformations! 🌱🌬️
+Heartfelt thank you to everyone who contributed to this project, and to the collaborative and knowledge-sharing spirit within the data science community. Let's persist in using data as a catalyst for positive transformations! 🌱🌬️
